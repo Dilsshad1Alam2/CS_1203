@@ -16,6 +16,8 @@ int main( int argc, char **argv) {
         n= n+1;
         scanf("%d", &val);
     }
+
+    return 0;
     
 }
 
